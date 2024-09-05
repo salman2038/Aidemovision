@@ -190,6 +190,11 @@ section.Footer-Area {padding: 50px 0 20px;}
 section.Video-Area {
     margin-top: -70px;
 }
+.Icon-Box ul li svg {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
 /*Resposive Css*/
 @media only screen and (min-width: 1025px) and (max-width: 1200px)  {
 .form-drop-field label {
