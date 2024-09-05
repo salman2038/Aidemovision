@@ -315,7 +315,7 @@ section.Icon-Area {
         		</div>
         		<div class="col-12 col-a=sm-12">  
         			<div class="Btn-Box">
-        			<button type="submit" class="btn btn-primary">Submit</button>
+        			<button type="submit" class="btn btn-primary">Save</button>
         			</div>
         		</div>
            </div>
