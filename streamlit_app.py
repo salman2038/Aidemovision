@@ -190,6 +190,79 @@ section.Footer-Area {padding: 50px 0 20px;}
 section.Video-Area {
     margin-top: -70px;
 }
+/*Resposive Css*/
+@media only screen and (min-width: 1025px) and (max-width: 1200px)  {
+.form-drop-field label {
+    width: 35%;
+    text-align: left;
+    margin-right: 10px;
+}
+.form-drop-field select {
+    width: 100%;
+}
+}
+ 
+@media only screen and (min-width: 992px) and (max-width: 1024px)  {
+.form-drop-field label {
+    width: 35%;
+    text-align: left;
+    margin-right: 10px;
+}
+.form-drop-field select {
+    width: 100%;
+}
+}
+@media only screen and (min-width: 768px) and (max-width: 991px)  {
+    .form-drop-field select {
+    width: 80%;
+}
+   .form-drop-field label {
+    width: 15%;
+    text-align: left;
+    margin-right: 10px;
+}
+section.Video-Area {
+    margin-top: 0px;
+}
+ 
+    }
+@media only screen and (min-width: 200px) and (max-width: 767px)  {
+.form-drop-field select {
+    width: 100%;
+}
+.form-drop-field label {
+    width: 35%;
+    text-align: left;
+    margin-right: 10px;
+}
+section.Main-body {
+    margin: 30px 10px;
+}
+.logo {
+    padding: 34px 0px;
+    width: 200px;
+}
+.Icon-Box {
+    text-align: left;
+}
+.Icon-Box ul li {
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+}
+.Btn-Box {
+    text-align: justify;
+}
+.Button-Box {
+    text-align: center;
+}
+section.Video-Area {
+    margin-top: 0px;
+}
+section.Icon-Area {
+    padding: 35px 0;
+}
+    }
     </style>
     <body>
 
