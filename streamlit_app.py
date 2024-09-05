@@ -427,5 +427,5 @@ section.Icon-Area {
         });
     </script>
     """,
-    height=850,
+    height=1000,
 )
