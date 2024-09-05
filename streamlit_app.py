@@ -296,7 +296,7 @@ section.Video-Area {
 		<div class="row">
 			<div class="Footer-Logo">
 				<a href="#">
-					<img src="/Images/foot-logo.svg" class="img-fluid"> 
+					<img src="https://www.veraqor.io/wp-content/uploads/2022/09/web-logo-old-01-1.svg" class="img-fluid"> 
 				</a>
 			</div>
 		</div>
