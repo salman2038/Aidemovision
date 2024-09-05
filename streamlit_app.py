@@ -319,5 +319,5 @@ section.Video-Area {
         });
     </script>
     """,
-    height=1000,
+    height=800,
 )
