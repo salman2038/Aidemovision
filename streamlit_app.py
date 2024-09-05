@@ -194,7 +194,7 @@ section.Video-Area {
     <body>
 
 <div class="wrapper">
-		 <div class="logo"><a href="#"><img src="https://github.com/salman2038/Aidemovision/blob/main/logo.png" class="img-fluid"></a></div>
+		 <div class="logo"><a href="#"><img src="logo.png" class="img-fluid"></a></div>
 </div>
 <section class="Form-Area">
 	<div class="container">
